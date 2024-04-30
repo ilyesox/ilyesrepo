@@ -1,0 +1,3 @@
+temp/
+config/settings.env
+*.log
